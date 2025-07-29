@@ -10,7 +10,7 @@
 - Hardware Description Languages: Verilog
 - Simulation & Design: MATLAB (Basics), VLSI Tools
 - Circuit Analysis & Design
-- Academic Writing and Competitive Exam Preparation
+- Academic Writing and Competitive Exam Preparation.
 
 ## 📬 Connect with Me
 - 📧 Email: swarnabindumotepalli9@gmail.com
